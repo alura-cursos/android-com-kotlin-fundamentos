@@ -10,7 +10,8 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Salada de frutas"
+        tools:text="Salada de frutas"
+        android:text="Cesta de frutas"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
