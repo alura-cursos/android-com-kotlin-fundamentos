@@ -6,4 +6,9 @@
     android:layout_height="match_parent"
     tools:context=".ui.activity.FormularioProdutoActivity">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="formulario de produto" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
