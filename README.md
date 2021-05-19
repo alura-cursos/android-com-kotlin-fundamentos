@@ -15,7 +15,7 @@ Nesta versão o App possui as seguintes funcionalidades:
 
 - Kotlin
 - Activities
-- layout para Activities
+- Layout para Activities
     - ConstraintLayout
     - TextView
     - RecyclerView
