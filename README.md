@@ -8,24 +8,24 @@ App de simulação de um e-commerce para produtos naturais para o curso de funda
 
 Nesta versão o App possui as seguintes funcionalidades:
  
-- [x] Listagem de produtos
-- [x] Cadastro de produtos
+- Listagem de produtos
+- Cadastro de produtos
 
 ## Técnicas e tecnologias no projeto 
 
-- [x] Kotlin
-- [x] Activities
-- [x] layout para Activities
-    - [x] ConstraintLayout
-    - [x] TextView
-    - [x] RecyclerView
-    - [x] EditText
-    - [x] Button
-- [x] Binding de View
-- [x] Listener de clique
-- [x] AndroidX
-    - [x] AppCompatActivity
-- [x] Refatoração de código
+- Kotlin
+- Activities
+- layout para Activities
+    - ConstraintLayout
+    - TextView
+    - RecyclerView
+    - EditText
+    - Button
+- Binding de View
+- Listener de clique
+- AndroidX
+    - AppCompatActivity
+- Refatoração de código
 
 ## Desafio
 
