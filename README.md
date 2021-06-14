@@ -1,6 +1,6 @@
 ![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-fundamentos)
 
-# 📋 Introdução ao Orgs 
+# Orgs 
 
 App de simulação de um e-commerce para produtos naturais para o curso de fundamentos de Android com Kotlin.
 
