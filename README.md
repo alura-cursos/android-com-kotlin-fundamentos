@@ -47,6 +47,6 @@ Após baixar o projeto, você pode abrir com o Android Studio. Para isso, na tel
 
 O Android Studio deve executar algumas tasks do Gradle para configurar o projeto, aguarde até finalizar. Ao finalizar as tasks, você pode executar o App 🏆 
 
-## Mais informações do curso
+## 📚 Mais informações do curso
 
 Gostou do conteúdo e quer saber mais detalhes? Então [confira o curso na página da Alura](https://www.alura.com.br/curso-online-fundamentos-android-kotlin) 😉
