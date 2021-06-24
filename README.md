@@ -1,3 +1,5 @@
+![Thumbnail GitHub fundamentos](https://user-images.githubusercontent.com/8989346/123303626-61a14600-d4f4-11eb-857b-11cd11a19f03.png)
+
 ![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-fundamentos)
 
 # Orgs 
